@@ -26,7 +26,7 @@ class BirdBank {
 
       return ret
   }
-  // reminder: Because "\" is used to escape characters, "\" is represented with "\\"
+  
   func main() -> Void {
       let flag = "qdoqlq@SCz.l\\c1^_0df0rq^_0ocz"
       print("Welcome to the Bird Bank!")
