@@ -6,12 +6,12 @@ Terror CTF 2024 is a competition held by FTC team 22105 Runtime Terror in hopes 
 
 ## ASCII-jumnler
 
-Author: Shuban Pal (shubuntu on Discord)
-Description: Somebody turned my flag into a bunch of jumbled up numbers >:(
-Files: jumbler.py
+- Author: Shuban Pal (shubuntu on Discord)
+- Description: Somebody turned my flag into a bunch of jumbled up numbers >:(
+- Files: jumbler.py
 
 ## Bird Bank
 
-Author: Shuban Pal (shubuntu on Discord)
-Description: Bird bank isn't located in Burbank. It's in Cupertino ;)
-Files: birdbank.swift
+- Author: Shuban Pal (shubuntu on Discord)
+- Description: Bird bank isn't located in Burbank. It's in Cupertino ;)
+- Files: birdbank.swift
